@@ -1,0 +1,239 @@
+
+
+AVIONIC SYSTEM DESCRIPTION
+	(Example document for LSA applicants – v1 of 17.02.16)
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+This document describes the Avionic System of the ABCD aircraft according to the requirements as referenced in the certification programme (ref.1).
+The aim of this document to describe the avionic system of the aeroplane and demonstrate compliance to the requirements. This document is essential, when the applicant’s design contains non-certified elements. (e.g. instruments what aren’t ETSO certified)
+References
+Certification Programme ABCD-CP-00
+
+
+
+
+List of Abbreviations
+
+A/C – Aircraft
+A/D – Analog/Digital
+AC – Alternate Current
+AC (2) Advisory Circular (FAA)
+ADC – Air Data Computer
+ALT – Altitude indicator
+Amp – Amperes
+AOA – Angle of Attack
+AP – Alternative Procedures of Design Organization
+ASI – Airspeed Indicator
+ASTM – American Society for Testing and Materials
+ATM – Air Traffic Management
+CB – Circuit Breakers
+CDI – Course Deviation Indicator
+CHT – Cylinder Head Temperature
+COM – Communication
+CS – Certification Specifications
+CS-LSA – Certification Specifications for Light Sport Aircraft
+DC – Direct Current
+DOA – Design Organization Approval
+EASA – European Aviation Safety Agency
+EFIS – Electronic Flight Instrument System
+ELA – European Light Aircraft
+ETSO – European Technical Standard Order
+FAA – Federal Aviation Administration
+FOV – Field-of-View
+GNSS – Global Navigation Satellite System
+GPS – Global Positioning System
+HSI – Horizontal Situation Indicator
+Hg In – Inches of Mercury
+IC – Intercom
+ILS – Instrument Landing System
+LH – Left Hand (side)
+MFD – multi-function display 
+NAV – Navigation
+OAT – Outside Air Temperature
+OP – Oil Pressure
+OT – Oil Temperature
+P/N – Part Number
+PFD – Primary Flight Display
+PMA – Parts Manufacturer Approval
+RH – Right Hand (side)
+RPM – Revolution per minute
+S/N – Serial Number
+SAE – Society of Automotive Engineers
+TSO – Technical Standard Order
+V – Volts
+VHF – Very High Frequency
+VOR – VHF Omnidirectional Range
+W – Watts
+
+Description
+The aircraft ABCD has a semi-conventional instrument panel, intended for Day-VFR operation. The conventional “sixpack” is replaced with an EFIS display on the pilot side, and contains the necessary flight data and engine data. The display has controls for the remote-controlled VHF radio, and NAV radio including VOR/ILS, GNSS. The ignition switch is located on the left side of the panel. The master switch and the electrical switches (lights, avionic master, fuel pump, etc.) are located below the display. Above the display, a placard shows the applicable limitations (MTOW, Operational limitations, manoeuvring speed, manoeuvres, IMC limitations).
+The instrument panel is divided into five sections: LH, centre, RH, instrument panel cover, and centre console. The EFIS display is located on the LH section together with the analogue indicators for airspeed and altitude. The stack for radio, transponder, navigation and GPS are located on the centre panel. Engine analogue instruments are located to the right.
+Location of circuit breakers (CB) are divided. The primary C/B’s, such as battery master, avionic master, flaps, etc. are placed in front of the pilot, the secondary circuit breakers, such as C/B’s for the conventional engine instruments are placed to the right side.
+
+
+Requirements
+The applicable requirements of CS-LSA.15 (Reference standard: ASTM F2245-12d) as defined in the Certification programme (Ref.1), are shown in the table below.
+(NOTE: at the time of issue of this template, the CS-LSA amdt 1 is in place which includes the ASTM F2245-12d. If later amendments of the CS-LSA or ASTM are in place, they should be considered. The structure of the document remains the same, but the requirements defined in the certification basis agreed with the Agency shall be considered) 
+Table 1 – Cross reference table for CS-LSA requirements
+The design of the avionic system of the Airplane ABCD meets also the standards provided by the certification memo “Acceptance of Electronic Flight Instrument Systems without own equipment approval in Small Aeroplanes (ELA1)”. A cross reference table is provided in Appendix 1. 
+NOTE: at the date of issue of this template, the certification memo is still in consultation. Since the certification memo is not published yet, It might happen that the final version of the Certification Memo will differ in some aspects, nevertheless the intent of the certification memo is expected to remain the same.
+
+
+Instrument panel layout
+(NOTE: this document has been written considering a typical hybrid digital/analog solution of the instrument panel. This is not aimed to suggest a “desirable” solution by the Agency. Any solution, as long as it complies to the requirements, can be proposed and should be evaluated with the approach shown in this document)
+
+Figure 1 – Instrument Panel Layout
+
+
+EFIS screen details
+The display is an 8”, high resolution VGA screen, with built-in features:
+Air data computer 
+VOR and ILS LOC radio
+COM radio
+GPS receiver
+Glideslope receiver
+Solid-state attitude and heading reference system
+A/D converter
+An audio panel is installed in the central section of the instrument panel. It contains controls for the pilot’s and the passenger’s audio output. The audio panel communicates with the avionics unit using RS-232 digital interface. Each microphone input has a dedicated VOX circuit to ensure that only the active microphone(s) is/are heard when squelch is broken. After the operator has stopped talking, the intercom channel remains momentarily open to avoid closure between words or normal pauses.
+Remote VHF NAV/COM receiver is located in the avionics rack, behind the co-pilot’s seat.
+Panel-mounted VHF NAV/COM/GPS receiver is located in the central section of instrument panel. Both COM radios are able for 8.33 kHz channel spacing.
+The frequencies can be displayed additionally on the PFD. The COM radio is able for 8.33 kHz channel spacing. 
+
+
+Parts of the EFIS screen
+Attitude indicator is located in the centre of the screen.
+Airspeed tape is located on the left side of the attitude indicator. True airspeed is digitally displayed in a small window below the airspeed tape. The airspeed indicator also displays speed ranges for different airplane configurations (flaps retracted or extended), airspeed trends and ‘V’ speeds. If the airspeed indicator fails, the display marks the airspeed display area with a red ’X’ and red text spelling out ‘AIRSPEED FAILURE’.
+The altimeter is located on the RH side of the attitude indicator. The altimeter displays the airplane altitude in feet on a rolling number gauge (like a drum-pointer altimeter) using a moving tape. The altimeter also shows an ‘altitude bug’ at the selected altitude or on the top or bottom of the tape. If the altitude indicator fails, the display marks the tape display area with a red ’X’ and red text spelling out ‘ALTITUDE FAILURE’.
+The vertical speed indicator is located to the right of the altitude indicator. The indicator displays the airplane vertical speed in feet/min. A numeric pointer moves vertically up/down a fixed tape. The vertical speed indication is shown digitally on the pointer. The scale on the tape gives the positive or negative multiplication factor on a 1000 feet/min ticks scale. A negative sign is shown on the pointer to indicate negative vertical speeds (airplane descending). If the VSI fails the display marks the tape display area with a red ’X’ and yellow text spelling out ‘VERT SPEED FAIL’.
+Horizontal situation indicator (HSI). The HSI is located in the center of the screen at the bottom. The HSI displays a rotating circular compass with heading markings. The HSI shows the following information:
+Heading information, as a direct reading compass. The heading is shown digitally in a window at the top of the rotating compass.
+Turn rate indicator. A turn rate indicator is located between the digital heading window and the rotating compass.
+Course deviation indicator (CDI). The CDI is a line with an arrowhead that points to the airplane heading on the rotating compass. The line can slide left or right of the center marking to show the deviation of the actual course being flown to the required course. Course data can be supplied from the airplane VOR, LOC or GPS system. If the heading data is invalid the digital heading display window is marked with a red cross and yellow text spelling ‘HEADING ERROR’.
+Vertical deviation (glideslope) indicator. The glideslope indicator is located to the left of the vertical speed indicator. 
+Alerts window. The alerts window is located on the right side of the screen. This window opens when an alert is activated. (NOTE: the list of alerts should be provided)
+Warnings and cautions window. The warnings and cautions window is located above the alerts window. When an alert occurs, it supersedes the cautions and warnings. (NOTE: the list of warning/caution messages should be provided)
+The navigation map (moving map) window is located in the lower left of the screen. The window shows a pictorial view of the airplane on a moving map. 
+Small bezels in the top left corner of the screen show active and standby NAV frequencies. Small windows in the top right of the PFD show active and standby COM frequencies. A larger horizontal band in the top centre of the PFD shows flight planning data when activated. 
+A small window in the bottom left of the PFD shows the outside air temperature (OAT). A small windows on the bottom right of the PFD shows the transponder settings and operational state. Another small window in the right bottom corner of the PFD shows a digital clock. A set of labels along the very bottom of the PFD identifies the function of the softkeys for the current page being displayed on the PFD.
+The engine indication system window is on the right side of the screen, that displays a full-time dedicated display of these engine parameters (backup engine instruments are placed on the right side of the instrument panel):
+NOTE: in this example, the primary source of information is provided by the EFIS display.
+Engine RPM. The engine RPM indicator is located on the top of the engine parameters side. A pointer on a gauge-like circle moves to show the engine rpm. If the system fails the display shows a red cross on the rpm indicator.
+Manifold pressure (MP) The manifold pressure indicator is a horizontal bar below the RPM indicator, with an arrow-like pointer. The exact MP value in inches of mercury is displayed above the horizontal bar. The operating range of MP values is marked with a green band. The pointer moves from left to right to show the increasing manifold pressure.
+Cylinder-head temperature (CHT) indicator. This indicator is found below the MP indicator. This is also a horizontal bar, with an arrow-like pointer. The operating range of CHT values is marked with a small green band, the caution areas are marked with bigger yellow bands. The exact value of CHT is shown on the right side of the indicator in ◦C.
+Oil temperature indicator (OT). This indicator is placed below the CHT indicator, and this is also a horizontal bar, with a pointer, with green-marked operating range. The exact value in ◦C.
+Oil pressure indicator (OP) is located below the oil temperature indicator. This indicator is a horizontal bar, with an arrow-like pointer. A small number on the right side shows the oil pressure digitally (in bars). If the OP drops suddenly, a yellow bezel is shown around the indicator to get the pilot’s attention.
+The main bus voltage is displayed below the RPM indicator. A pointer above a horizontal range bar shows the main bus voltage. The horizontal range bar is color coded, too. The green central section of the bar indicates that the voltage is within limits. The red section at the left end of the range bar indicates too low a voltage. The red section at the right end of the range bar indicates too high a voltage. Above the range bar is a window displaying the main bus voltage digitally.
+Amps. The generator load is shown by an indicator located below the Volts indicator. A pointer above a horizontal range bar shows the generator load. The pointer moves from left to right to show the load on the generator. When the generator output and the electric demands is in balance, the pointer remains in middle. When the pointer moves to right, it means the generator charges the battery. When the pointer moves to left, it means the generator’s performance is insufficient to supply the electrical demands, so the battery energizes the electrical system.
+Fuel quantity. The fuel quantity indication is located at the bottom of the engine parameters annunciator. Pointers above and below a range bar indicate the fuel quantities. The pointers move from left (low) to right (full) to indicate the fuel quantity. The pointer above the range bar indicates the quantity of fuel in the left fuel tank and the pointer below the range bar indicates the quantity of fuel in the right fuel tank. The indicator is color-coded, when the fuel-quantity reaches the amount of 11 liters (the fuel needed for 30 minutes flight +10% safety margin at 1500’ above sea level+ the unusable fuel amount) the indicator becomes red. The 11 liter (2.9 USG) total fuel quantity (5.5 liters / 1.45 USG for each fuel tank) is marked with a red band on the horizontal bars. The exact fuel amount is shown on the top of the fuel bar. (Left and Right side tanks).
+
+
+Field of view
+Because of the absence of more precise requirements within CS-LSA / ASTM F2245-12d for the visibility of instrumentation, an analysis of the primary field of view has been performed following AC 23.1311-1C. The aim is to give to the pilot the ability to use all the required instruments with “minimum head and eye movement”.
+The definitions below of AC 23.1311-1C are considered.
+The definition of the Primary Maximum Field-of-View of AC 23.1311-1C has been considered with one exception: a Field of View larger than +/–35 degrees horizontal and including almost the whole instrument panel has been considered acceptable. The justification is based on the reduced size of the instrument panel and the reduced number of needed information for a VFR-DAY airplane. 
+This has been assessed through an in-flight review and pilot assessment, which is recorded in document ABCD-FTR-00B “Qualitative pilot statements”, where it is shown that all the displayed info, including engine analog instruments, are visible through pilot’s visual scan and minimized head rotation. 
+Note: the assessment above is very specific but it can be acceptable after review of EASA Flight test pilot. 
+
+
+
+Figure 3 – Field of View
+The table below shows the location of the equipment with respect to the above definitions of the Field of Views. 
+Table 2 – location of the displayed information on the instrument panel
+
+
+System schematics
+Flight instrumentation
+This sections provide a more detailed description of the individual equipment (information displayed, type of calibration performed, level of qualification, environmental conditions, scale range, etc.). 
+It is important to consider that the primary source of information for flight data is the EFIS. Thus the analogue serves as backup.
+Pitot-static instruments
+
+Navigation instruments
+
+
+
+
+
+
+
+
+Backup engine instruments
+
+
+
+
+
+Warning lights
+
+
+
+
+Main switches
+
+ Circuit Breakers
+Other instruments and switches
+Transponder
+The XPNDR 123 is a solid state Mode-S transponder. The transponder provides modes A, C and S functions. The unit is operated directly through the display’s softkeys or the panel. The transponder is linked to the avionics unit via RS-232 digital interface. The transponder is installed in the bottom part of the middle instrument panel.
+Flap switch, and flap position indicator
+The flap switch and position indicator have been integrated into one unit. The positions are shown by LEDs for each flap position. One for the UP, one for the 15°, and one for the 30° position.
+Units integrated into the EFIS display
+AHRS: it provides airplane attitude and related flight data to the display. It receives data from the air data computer, the magnetometer and GPS signals. 
+The Air Data Computer (ADC) receives data from the Pitot/static system and an OAT sensor. The ADC uses this data to provide pressure altitude, airspeed, vertical speed and outside air temperature data to the EFIS system. Software and configuration data is received through RS-232 digital interface. The ADC is located inside the EFIS display unit.
+Integrated avionics unit processes all the data that is shown on the EFIS display. 
+Engine I/O unit is integrated into the EFIS display unit itself. It is a microprocessor based unit that receives and processes signals from airframe and engine sensors. (CHT sensor, RPM sensor, OAT, etc.) 
+Magnetometer: it senses magnetic field information. Data is sent to the AHRS for processing. The magnetometer receives power from the AHRS and communicates with it using RS-485 digital interface. The magnetometer is located in the left outer wing and can accessed through a panel in the lower surface of the wing.
+Antenna and sensor locations
+The GPS antenna is located on the upper side of the fuselage. The COM antenna is located on the top of the vertical stabilizer. The NAV antenna is located underside of the fuselage.
+The pitot-static tube is located on the left wing. 
+The magnetometer is located inside of the left wing.
+Antenna types
+
+
+
+Antenna and sensor location layout
+
+Figure 4 – Antenna and sensor locations
+
+Qualification of the equipment
+The general approach for the qualification of the equipment is described in the following table. Three type of equipment are identified:
+Approved equipment: identifies an equipment whose design meets an ETSO standard;
+Standardized equipment: identifies an equipment whose design meets an industry standard;
+Accepted equipment: identifies an equipment which meets a certain specification defined by the equipment manufacturer;
+Note: the above definitions have a meaning limited to this document and should not be read in the context of other similar definitions given in EU regulations (e.g. :approved equipment has a different meaning here than the meaning in EU 748/2012 - part 21).
+Table 3 – Qualifications level
+Note: the aim of this section is to define the criteria for acceptance. In the scope of this template, for most of the equipment in chapter 9, the information related to the qualification of each equipment just refer to Table 3 without adding further information (only in some cases some additional info are provided). When the applicant produces this document, she/he will have to provide more details, explaining how the criteria above are used in each single case. This is mainly needed in case of “accepted” equipment. 
+
+
+Assessment of failures of the PFD
+This Safety Assessment (SA) is based on SAE Aerospace Recommended Practice (ARP) No. ARP4761 “Guidelines And Methods For Conducting The Safety Assessment Process On Civil Airborne Systems And Equipment” issued on 12-1996 (as amended). It follows the method of Failure Mode and Effect Analysis (FMEA).
+
+Table 4 – Safety assessment
+Note: this chapter is aimed to provide the assessment of the failures as required by the Certification memo on non ETSO EFIS. In this case it is limited to the PFD since it is the only (non ETSO) source of safety information. In general, such analysis can be used to support the suitability of a certain equipment and the acceptability of the corresponding qualification level.
+
+Instrument panel Hazard Assessment 
+The aim of this chapter is to assess the potential hazards that might be placed to the occupants by the equipment in the instrument panel. This is aimed to support compliance to ASTM F2245-12d chapters 8.6. 
+Table 5 – Safety assessment
+
+
+Compliance statements
+Compliance statements are shown below. 
+
+
+
+
+
+
+Appendix I
+See Certification Memo of “Acceptance of non ETSO’d Electronic Flight Instrument Systems in Small Airplanes (ELA1)”
+
+
+

@@ -1,0 +1,1237 @@
+,A/A,Air to air TACAN function,,1
+,A/C,Aircraft,,1
+,AC,Altocumulus,Cloud type,1
+,ACC,Altocumulus Castellanus,Cloud type,1
+,ACC,Area Control Centre,,1
+,A/D,Aerodrome,,1
+,A/F,Autofeather,,1
+,A/FD,Airport/Facility Directory,,1
+,A/P,Autopilot,,1
+,AAE,Above aerodrome elevation,"In aviation, above aerodrome level (AAL), or above aerodrome elevation (AAE), denotes that an altitude is given above the nearest aerodrome or airport.",1
+,AAIB,Air Accidents Investigation Branch,United Kingdom,1
+,AAIM,Aircraft Autonomous Integrity Monitoring,,1
+,AAO,Assumed adverse obstacle,,1
+,AAS,Airport advisory service,,1
+,AC,Advisory circular,Information and guidance publication,1
+,ACAM,Aircraft continuous airworthiness monitoring,,1
+,ACARS,Aircraft Communications Addressing and Reporting System,,1
+,ACAS,Airborne collision avoidance system,,1
+,ACC,Area control centre,,1
+,ACC,Active clearance control,Turbine engine system,1
+,ACC,Accessory,In gas turbine engine,1
+,ACE,Actuator control electronics,,1
+,ACFT,Aircraft,,1
+,ACI,Airports Council International,,1
+,ACLS,Automatic carrier landing system,Aircraft carrier operations,1
+,ACM,Air cycle machine,Part of A/C air conditioning system,1
+,ACMS,Aircraft condition monitoring system,,1
+,ACP,Audio Control Panel,,1
+,ACR,Avionic Communication Router,,1
+,ACS1,Airman Certification Standards,FAA pilot testing,1
+,ACS2,Audio control system,,1
+,ACU1,Air condition unit,,1
+,ACU2,Alternator control unit,Protection from alternator over-voltage.,1
+,AD,Airworthiness Directive,,1
+,ADA,Advisory area,,1
+,ADAHRS,Air data attitude heading reference system,,1
+,ADC,Air data computer,,1
+,ADD,Acceptable deferred defect,,1
+,ADF,Automatic direction finder,Navigation equipment,1
+,ADI,Attitude Director Indicator,,1
+,ADIRS,Air Data Inertial Reference System,,1
+,ADIRU,Air Data Inertial Reference Unit,,1
+,ADIZ,Air defense identification zone,,1
+,ADJ,Adjustment,Mechanical term,1
+,ADM1,Aeronautical decision-making,Piloting term of judgment,1
+,ADM2,Air data module,,1
+,ADN,Aircraft Data Network,Ethernet derivative for Commercial Aircraft,1
+,ADS1,Air data system,,1
+,ADS2,Automatic dependent surveillance,,1
+,ADS-A,Automatic dependent surveillance – address,,1
+,ADS-B,Automatic dependent surveillance – broadcast,,1
+,ADS-C,Automatic dependent surveillance – contract,,1
+,ADV,Arbeitsgemeinschaft Deutscher Verkehrsflughäfen,German Airports Association,1
+,AEA,Association of European Airlines,,1
+,AESA,Active electronically scanned array,,1
+,AFCS,automatic flight control system,,1
+,AFD,Autopilot flight director,,1
+,AFDC,Autopilot flight director computer,,1
+,AFDS,Autopilot flight director system,,1
+,AFDX,Avionics Full-Duplex Switched Ethernet,,1
+,AFE,Above field elevation,,1
+,AFIS,Airborne flight information system,Also called automatic flight information service,1
+,AFM,Aircraft flight manual,,1
+,AFS,Aeronautical fixed service,,1
+,AFT,Aft The direction against the aircraft movement,,1
+,AFTN,Aeronautical Fixed Telecommunication Network,,1
+,AGACS,Automatic ground–air communications system,Also known as ATCSS or data link,1
+,AGB,Accessory gear box,Mainly used in turbine engine,1
+,AGC,automatic gain control,,1
+,AGDL,air–ground data link,,1
+,AGL,above ground level,,1
+,AHC,attitude heading control,,1
+,AHRS,Attitude and heading reference system,,1
+,AIDS,Aircraft integrated data system,,1
+,AIM,Aeronautical Information Manual,,1
+,AIP,Aeronautical Information Publication,,1
+,AIRAC,Aeronautical information regulation and control,,1
+,AIRMET,Air-mission's Meteorological Advisory,In-flight advisory given over 126.7,1
+,AIXM,Aeronautical information exchange model,,1
+,ALC,Automatic level control,,1
+,ALI,Airworthiness Limitation Item,,1
+,ALNA,Airline network architecture,,1
+,ALS,Approach lighting system,,1
+,ALT1,Alternate,,1
+,ALT2,Altimeter,,1
+,ALT3,Altitude,,1
+,ALT HOLD,Altitude hold mode,,1
+,ALTS,Altitude select,,1
+,ALUM,Aluminum,,1
+,AMC,Acceptable Means of Compliance (EASA),,1
+,AME,Aircraft Maintenance Engineer,,1
+,AME,Aviation Medical Examiner,,1
+,AMLCD,Active-matrix liquid-crystal display,,1
+,AMM,Aircraft Maintenance Manual,,1
+,AMO,Approved Maintenance Organization,,1
+,AMS,Air management system,,1
+,AMSL,Above mean sea level,,1
+,AMP,Aircraft maintenance program,,1
+,AMT,Aircraft Maintenance Technician,,1
+,ANC,Active noise cancellation,,1
+,AND,Aircraft Nose Down,,1
+,ANN,Annunciator panel,Caution warning system normally containing visual and audio alerts to the pilot,1
+,ANPT,Aeronautical national pipe taper,,1
+,ANR,Active noise reduction,,1
+,ANSP1,Air navigation service provider,,1
+,ANSP2,Authorization of Aircraft Network Security Program (FAA),,1
+,ANT,Antenna (radio),,1
+,ANSOG,Airport Network Security Operator Guidance (Boeing),,1
+,A/O,Air oil,In turbine engines,1
+,AOA,Angle of attack,,1
+,AOC1,Air operator's certificate,,1
+,AOC2,Aeronautical operational control,,1
+,AOG,Aircraft on ground,,1
+,AOM1,Aircraft operations manual,,1
+,AOM2,Airport/aerodrome operating minima,,1
+,AOP,Airport operating plan,,1
+,AP,Autopilot,,1
+,A/P,"Airplane (US), Aeroplane (ICAO)",,1
+,APARS,Automatic pressure altitude reporting system,,1
+,APC,Auto pilot computer,,1
+,APIRS,Attitude and positioning inertial reference system,,1
+,APOA,Airport of arrival,,1
+,APOD,Airport of departure,,1
+,APM,Aircraft personality module,,1
+,APP,Appendix,,1
+,APPL,Application,,1
+,APPROX,Approximately,,1
+,APS,Auto pilot system,,1
+,APT,Airport,,1
+,APU,Auxiliary power unit,,1
+,APV,Approach procedure with vertical guidance,Instrumental approach,1
+,AQP,Advanced Qualification Program,FAA training and testing,1
+,AR,Airworthiness review,,1
+,AR,authorization required,,1
+,AR,As required,,1
+,ARC,Airworthiness review certificate,,1
+,ARINC,Aeronautical Radio Inc.,,1
+,ARO,Airport reservation office,,1
+,ARP,Aerodrome reference point,,1
+,ARTCC,Air route traffic control centers,,1
+,ASAS,Airborne Separation Assurance System,,1
+,ASD,Aircraft situation display,,1
+,ASDA,Accelerate Stop Distance Available,,1
+,ASDL,Aeronautical satellite data link,,1
+,ASI,Airspeed indicator,,1
+,ASL,Above sea level,,1
+,ASLO,Aircraft Security Logging Overview,,1
+,ASM,Airspace management,,1
+,ASM,Available seat miles,,1
+,A-SMGCS,Advanced Surface Movement Guidance and Control System,,1
+,ASSY,Assembly,,1
+,A/S,Anti-Skid,,1
+,ASR,Airport surveillance radar,,1
+,ASU,Avionics switching unit,,1
+,A/T,Autothrottle,Also 'AT',1
+,A/THR,Autothrust,,1
+,ATA,Air Transport Association,,1
+,ATAG,Air Transport Action Group,A coalition of aviation industry experts focusing on sustainable development issues.,1
+,ATC,Air traffic control,,1
+,ATCC,Air traffic control centre,,1
+,ATCT,Airport traffic control tower,,1
+,ATCRBS,Air traffic control radar beacon system,,1
+,ATCSS,Air traffic control signalling system,,1
+,ATD,Actual time of departure,Equivalent to off-block time,1
+,ATE,Advanced Technology Engine,,1
+,ATF,Aerodrome traffic frequency,,1
+,ATFM,Air traffic flow management,,1
+,ATIS,Automatic Terminal Information Service,,1
+,ATM,Air traffic management,,1
+,ATN,Aeronautical Telecommunication Network,,1
+,ATO,Approved Training Organisation,,1
+,ATPL,Airline Transport Pilot Licence,,1
+,ATQP,Alternative Training and Qualification Programme,,1
+,ATR1 1,Air transportable racking,,1
+,ATR2,Automatic thrust restoration,,1
+,ATS,Air traffic service,,1
+,ATSAW,Airborne traffic situational awareness,,1
+,ATSU,Air traffic services unit,Avionics LRU for ACARS,1
+,ATT,Attitude,,1
+,ATTCS,Automatic Take-off Thrust Control System,,1
+,AUPRTA,Airplane Upset Prevention & Recovery Training Aid,,1
+,AVAIL,Available,,1
+,AVIONICS,Aviation electronics,,1
+,AVSA,Adjust vertical speed adjust,TCAS Voice command to adjust traffic separation,1
+,AWACS,Airborne Warning and Control System,Airborne early warning and control (AEW&C) or Boeing E-3 Sentry,1
+,AWBS,Aviation weather briefing service,Available at designated FSS's,1
+,AWG,American Wire Gage,"The larger the size number, the smaller the wire diameter.",1
+,AWIS,Aviation weather information service,Available at FSS,1
+,AWO,All weather operations,,1
+,AWOS,Automated weather observation system,Automated METAR reporting system,1
+,AWWS,Aviation weather web site,In Canada,1
+,B RNAV,Basic area navigation,,1
+,BARO,"Barometric indication, setting or pressure",,1
+,BARO-VNAV,Barometric vertical navigation,,1
+,BC,back course,Or 'BCRS',1
+,BCAA,Belgian Civil Aviation Authority,,1
+,BDC,bottom dead centre,Piston engine,1
+,BDI,bearing distance indicator,,1
+,BFL,balanced field length,,1
+,BFR,biennial flight review,,1
+,BGAN,Broadcast Global Area Network,,1
+,BER,beyond economic repair,Hull loss,1
+,BHP,brake horsepower,,1
+,BITE,Built-In Test Equipment,,1
+,BL,Butt Line,,1
+,BME,Bridge Mounted Equipment,,1
+,B/P,Blue Print,,1
+,BPR,bypass ratio,,1
+,BOM,bill of material,,1
+,BTV,Brake-to-Vacate System,A new feature introduced by Airbus A380,1
+,BWC,bird watch condition,,1
+,BVID,Barely Visible Impact Damage,,1
+,BVR,Beyond Visual Range,,1
+,C2,command and control,,1
+,CA,Captain,,1
+,CAA,Civil Aviation Authority,,1
+,CACTCS,Cabin Air Conditioning and Temperature Control System,"(Pronounced ""Cactus"")",1
+,CAI,Caution Advisory Panel,"Sometimes spelled ""caution-advisory"" or ""caution/advisory"". Also known as annunciator panel or Centralized Warning Panel (CWP)",1
+,CAM,cockpit area microphone,Part of a cockpit voice recorder,1
+,CAME,Continuing Airworthiness Management Exposition,,1
+,CAMO,Continuing Airworthiness Management Organisation,,1
+,CAMP,Continuous Airworthiness Maintenance Program (FAA),,1
+,CAN BUS,Controller Area Network,,1
+,CANSO,Civil Air Navigation Services Organisation,,1
+,CAP,cabin attendant panel,,1
+,CAR,civil aviation regulation,,1
+,CARs,civil aviation regulations,,1
+,CARS,Canadian Aviation Regulations,,1
+,CAS,calibrated airspeed,,1
+,CASS,Commercial Air Service Standards,,1
+,CASS,continuing analysis and surveillance system,,1
+,CAT1,clear air turbulence,,1
+,CAT2,Commercial Air Transport,,1
+,CAVOK,Ceiling and Visibility OK,Visibility is at least 10 kilometres and no clouds below 5000 feet with no forecasted significant weather change such as precipitation.,1
+,CAVU,Ceiling and Visibility Unlimited,,1
+,CAW,continuing airworthiness (EASA),,1
+,CB,Cumulonimbus cloud,,1
+,CBT,computer-based training,,1
+,CCRs,closed circuit mixed gas rebreathers,,1
+,CCRs,constant current regulators,,1
+,CDA,Continuous descent approach,,1
+,CDCCL,critical design configuration control limitation,,1
+,CDI,course deviation indicator,,1
+,CDU,Control Display Unit,,1
+,CDFA,Continuous Descent Final Approach,,1
+,NUO,,,1
+,CDTI,Cockpit display of traffic information,,1
+,CDL,configuration deviation list,,1
+,CDU,control/display unit,,1
+,CFIT,controlled flight into terrain,,1
+,CFG,constant frequency generator,,1
+,CFR,Code of Federal Regulations,In the United States,1
+,CG,center of gravity,,1
+,CH,Course Heading,,1
+,CHDO,certificate-holding district office (FAA),,1
+,CHP,Course Heading Panel,,1
+,CHT,Cylinder Head Temperature (Piston engine aviation),,1
+,CI,cost index,,1
+,C/L,Centre line,,1
+,CL,checklist,"A flight deck manual, usually part of a Quick Reference Handbook",1
+,CLR,Clear,Seen on GFA and is used for sky coverage,1
+,CMC,central maintenance computer,,1
+,CMM,component maintenance manual,,1
+,CMO,Certificate Management Office,FAA,1
+,CMV,converted meteorological visibility,,1
+,CMPA,complex motor-powered aircraft,,1
+,CMU,Communications Management Unit,,1
+,CNS,"Communication, navigation and surveillance",,1
+,CNS/ATM,"Communication, navigation and surveillance / Air traffic management",,1
+,CODEC,Coder/decoder,,1
+,CofA,Certificate of airworthiness,,1
+,COMM or COM,"Communications transceiver, Communications receiver, or Communications radio transmitter","Now, normally: either VHF or UHF; HF communications avionics are usually abbreviated simply HF",1
+,CORSIA,Carbon Offsetting and Reduction Scheme for International Aviation,,1
+,COTS,Commercial off-the-shelf,,1
+,CPA,Closest point of approach,,1
+,CPDLC,controller–pilot data link communications,,1
+,CPR,Changed product rule,EASA,1
+,CPS,Cycles per second,,1
+,CRD,Comment-response document (EASA),Part of rule making process,1
+,CRES,Corrosion resistant steel,,1
+,CRM,Crew resource management,,1
+,CRT,Cathode ray tube,,1
+,CS,certification specification (EASA),,1
+,CSD,constant speed drive,,1
+,CSDB,Commercial Standard Digital Bus,,1
+,CSDB,Collins Standard Digital Bus,,1
+,CSN,Cycles since new,"Normally measured in FC or EFC for an aircraft, engine or component",1
+,CSO,cycles since overhaul,,1
+,CSS,cabin services system,,1
+,CSU,constant speed unit,,1
+,CSCT,Configuration Item Signer Crater Tool,Boeing,1
+,CTAF,common traffic advisory frequency,,1
+,CTR,controlled traffic region/control zone,,1
+,CV/DFDR,Cockpit voice and digital flight data recorder,See Flight recorder,1
+,CVR,cockpit voice recorder,See Flight recorder,1
+,CWS,control wheel steering,,1
+,D,Compass Deviation,,1
+,DA/H,decision altitude/height (rel. to THR),See instrument landing system,1
+,DA1,Decision Altitude,Precision approach or vertical guidance,1
+,DA2,density altitude,,1
+,DA3,Drift angle,,1
+,DAH,design approval holder (EASA),,1
+,DAPs,Downlink of aircraft parameters,,1
+,DBER,damaged beyond economic repair,Hull loss,1
+,DCDU,Datalink control and display unit,,1
+,DCL,Departure Clearance via CPDLC,,1
+,DCP,Display control panel,,1
+,DDG,Dispatch deviation guide,https://fsims.faa.gov/WDocs/8400.10%20Air%20Transp%20Ops%20Insp%20Handbk/Volume%204.%20AIRCRAFT%20EQUIPMENT%20AND%20OPERATIONAL%20AUTHORIZATIONS/Vol%204-Chap%204-Sec%203.htm,1
+,DEFDARS,Digital Expandable Flight Data Acquisition and Recording System,,1
+,DER,departure end of runway,,1
+,DER,Designated Engineering Representative,,1
+,DEU,display electronic unit,,1
+,DFDR,Digital Flight Data Recorder,See flight recorder,1
+,DFMC,Dual Frequency Multiple Constellation,,1
+,DG,directional gyro,,1
+,DGPS,differential GPS,,1
+,DGR,Dangerous Goods Regulation,,1
+,DH,Decision height,"Precision approach, referred to threshold elevation",1
+,DIA,diameter,,1
+,DLR,datalink recorder,,1
+,DLR,German Aerospace Center / Deutsches Zentrum für Luft- und Raumfahrt e.V.,,1
+,DME,distance measuring equipment,,1
+,DME,Designated Mechanic Examiner,A person appointed by the FAA,1
+,DMI,deferred maintenance item,,1
+,DNC,Direct noise canceling,,1
+,DO,design organization,,1
+,DOA,design organization approval,EASA,1
+,DODAR,"diagnose, options, decide, act/assign, review",,1
+,DOM,design organization manual,,1
+,DOW,dry operational weight,,1
+,DP,Departure Procedures,,1
+,DPU,Display Processor Unit,,1
+,DR,dead reckoning,,1
+,DRMC,Direct Reading Magnetic Compass,,1
+,DSP,Digital signal processing,,1
+,DTO,declared training organisation,,1
+,DTU,Data transfer unit,,1
+,DUATS,Direct User Access Terminal Service,,1
+,DVE,Degraded Visual Environment,,1
+,EA,engineering authorisation,,1
+,EADI,Electronic Attitude Direction Indicator,,1
+,EAS,equivalent airspeed,,1
+,EASA,European Aviation Safety Agency,,1
+,EAT,expected approach time,,1
+,EBOM,engineering Bill of Material,,1
+,EBU,engine build-up,,1
+,EC,engineering control (also E/C),,1
+,ECAM,electronic centralised aircraft monitor,,1
+,ECET,end of civil evening twilight,,1
+,ECR,Engineering Change Request,,1
+,ECS,Environmental control system,,1
+,ECU,Engine Control Unit (=EEC),,1
+,EDR,engineering data record,,1
+,EDTO,extended diversion time operations,,1
+,EEC,electronic engine control,,1
+,EET,estimated elapsed time,,1
+,EFB,electronic flight bag,,1
+,EFC1,Engine Flight Cycle,,1
+,EFC2,expect further clearance,,1
+,EFD,Electronic flight display,,1
+,EFFRA,engine failure flap retraction altitude,,1
+,EFIS,electronic flight instrument system,,1
+,EFH,Engine Flight Hour,,1
+,EFP,engine failure procedure,,1
+,EFS,elevator feel shift,,1
+,EFTO,engine failure on take-off,,1
+,EFVS,Enhanced flight visual system,,1
+,EGPWS,enhanced ground proximity warning system,,1
+,EGI,Embedded GPS Inertial,,1
+,EGNOS,European Geostationary Navigation Overlay Service,,1
+,EGT,exhaust gas temperature,,1
+,EHM,engine health monitoring,,1
+,EHS,Enhanced surveillance,,1
+,EHSI,Electronic Horizontal Situation Indicator,,1
+,EICAS,engine-indicating and crew-alerting system,,1
+,EIS,Electronic Instrument System,,1
+,E-LSA,experimental light-sport aircraft,,1
+,ELAC,elevator and aileron computer,,1
+,ELOS,Equivalent Level of Safety,,1
+,ELT,emergency locator transmitter,,1
+,EMAS,engineered materials arresting system,,1
+,EMDP,electric motor driven pump,,1
+,ENC,Electronic noise canceling,,1
+,ENCASIA,European Network of Civil Aviation Safety Investigation Authorities,,1
+,ENG,engine,,1
+,ENR,Electronic noise reduction,,1
+,EOBT,estimated off-blocktime,,1
+,EPA,European part approval (EASA),,1
+,EPR,engine pressure ratio,,1
+,EPU,Emergency Power Unit,,1
+,ERAM,En Route Automation Modernization,,1
+,ERM,engineering request for maintenance,,1
+,ESA,emergency safe altitude,,1
+,ETA,estimated time of arrival,,1
+,ETD,estimated time of departure,,1
+,ETE,estimated time en route,,1
+,ETL,effective translational lift,,1
+,ETOPS,Extended-range Twin-engine Operation Performance Standards,,1
+,ETSO,"European Technical Standard Order, issued by EASA; see TSO",,1
+,EUROCAE,European Organisation for Civil Aviation Equipment,,1
+,EVAS,Emergency Vision Assurance System,,1
+,EVSI,Enhanced Vision Systems Instrument,,1
+,EVS,Enhanced Vision Systems,,1
+,EW,Empty Weight,,1
+,FAA,Federal Aviation Administration,U.S. Department of Transportation agency,1
+,FAC,Final approach course,,1
+,FACF,final approach course fix,Point at which the final approach descent is begun,1
+,FADEC,full authority digital engine control,Engine equipment,1
+,FAC,Flight Augmentation computer,Avionics,1
+,FAF,final approach fix,,1
+,FAF,first available flight,Airline operations,1
+,FALS,full approach lighting system,,1
+,FANS,Future Air Navigation System,Avionics,1
+,FAP,final approach point,,1
+,FAP,forward attendant panel,Aircraft equipment,1
+,FAR,Federal Aviation Regulation,FAA regulation,1
+,FAR/AIM,Federal Aviation Regulation /,,1
+,FAROS,final approach runway occupancy signal,,1
+,FAS,final approach segment,,1
+,FAT,Free air temperature,,1
+,FATO,final approach and take off,,1
+,FB,Winds aloft,World Meteorological Organization abbrev. see also FD,1
+,FBO,fixed-base operator,Airfield operations,1
+,FBS,fixed base simulator,Flight crew training,1
+,FBW,fly-by-wire,,1
+,FCC,Flight Control Computer,,1
+,FC,flight crew,,1
+,FCF,functional flight check,Check functionality after maintenance,1
+,FCMC,Fuel Control & Monitoring Computer,,1
+,FCOM,flight crew operating manual,Aircraft operations,1
+,FCS,flight control system,,1
+,FCTM,flight crew training manual,,1
+,FCU,fuel control unit,In turbine engines,1
+,FD,flight director,Avionics,1
+,FD,upper winds and temperature forecast,US and Canada abbrev. See also FB,1
+,FDAU,flight-data acquisition unit,,1
+,FDM,flight data monitoring,Operations planning,1
+,FDP,flight duty period,,1
+,FDPS,flight plan data processing system,Flight planning,1
+,FDR,flight data recorder,Avionics. Also known as 'black box'.,1
+,FDRS,flight data recorder system,Avionics,1
+,FDTL,flight duty time limitations,,1
+,FDU,flux detector unit,,1
+,FEP,final end point,,1
+,FF,fuel flow,,1
+,FFDZ,free fall drop zone (parachutists),,1
+,FFS,full flight simulator,Flight crew training,1
+,FG,Flight Guidance,,1
+,FIC,flight information centre,,1
+,FIDO,Fog Investigation and Dispersal Operation,Airfield operations,1
+,FIKI,Flight Into Known Icing,Aircraft operations,1
+,FIR,flight information region,ATC,1
+,FIS,Federal Inspection Services,,1
+,FIS-B,Flight information services – broadcast,,1
+,FISE,flight information service enroute,,1
+,FL,flight level,ATC,1
+,FLIR,Forward-looking infra-red,,1
+,FLTA,Forward-looking terrain avoidance,,1
+,FM,frequency modulation,Example: FM immunity,1
+,FMA,flight mode annunciator,Equipment,1
+,FMC,flight management computer (part of a FMS),Avionics,1
+,FMGC,Flight management and guidance computer,Avionics. Also FMGS: Flight Management & Guidance System,1
+,FMS,flight management system,Avionics,1
+,FO,first officer,Flight crew,1
+,FOB,Fuel On-Board,,1
+,FOD,foreign object damage,Airfield operations,1
+,FOO,flight operations officer,Airline employee,1
+,FOQA,flight operational quality assurance,,1
+,FPA,flight path angle,,1
+,FPL,filed flight plan,ATC,1
+,FPM,feet per minute,,1
+,FQIS,Fuel Quantity Indication System,,1
+,FREQ,Frequency,,1
+,FSDO,Flight Standards District Office (FAA),,1
+,FSF,Flight Safety Foundation,U.S.-based nonprofit organisation,1
+,FSIMS,Flight Standards Information Management System (FAA),,1
+,FSS,flight service station,,1
+,FTD,flight training device,Flight crew training,1
+,FTL,flight time limitations,,1
+,FVU,flux valve unit,Equipment,1
+,FWS,Flight warning system,,1
+,FYDS,Flight director / yaw damper system,,1
+,GA,general aviation,,1
+,G/A or GA,go-around,Aborted landing procedure,1
+,GAST,GBAS Approach Service Type,,1
+,GBAS,Ground based augmentation system,,1
+,GCAS,Ground collision avoidance system,,1
+,GBST,"ground-based, software tool",Airfield operations,1
+,GCA,Ground-controlled approach,Airfield operations,1
+,GCU,generator control unit,,1
+,GDOP,Geometric dilution of precision,,1
+,GEA,Ground effect area,,1
+,GGS,Global positioning system ground station,,1
+,GHz,Gigahertz,,1
+,GLOC,g-induced loss of consciousness,g Is acceleration relevant to the acceleration caused by gravity,1
+,GLONASS,Global Navigation Satellite System,Or GNSS,1
+,GLNS,GPS Landing and Navigation System,,1
+,GLNU,GPS Landing and Navigation Unit,,1
+,GLS,GBAS Landing System,,1
+,GLU,GPS landing unit,,1
+,GM,guidance material (EASA),,1
+,GMM,general maintenance manual,,1
+,GMT,Greenwich Mean Time,,1
+,GND,ground,Airfield operations,1
+,GP,glide path,See instrument landing system,1
+,GPP,general practices and procedures,,1
+,GPS,Global Positioning System,Avionics,1
+,GPU,Ground Power Unit,Aerospace Ground Equipment,1
+,GPWS,ground proximity warning system,Avionics,1
+,G/S,glideslope,Avionics,1
+,GS,groundspeed,,1
+,GSE,ground support equipment,Aerospace ground equipment,1
+,GUMPS,"Gas, Undercarriage, Mixture, Propeller, Seat belts/Switches",Mental checklist before landing,1
+,H,Heavy,Wake turbulence category,1
+,H,High,,1
+,HAA,Height above airport,,1
+,HAT,Height Above Touchdown,,1
+,HAZMAT,Hazardous Material,,1
+,HBCS,High Bandwidth Connectivity System,,1
+,HDB,Horizontal Deviation Bar (GS),,1
+,HDG,Heading,Navigation,1
+,HDG SEL,Heading select,Navigation,1
+,HDI,Horizontal Deviation Indicator,,1
+,HDOP,Horizontal dilution of precision,,1
+,HF,High frequency,,1
+,HFE,Human Factors Engineering,,1
+,HFES,Human Factors and Ergonomics Society,U.S.-based nonprofit organisation,1
+,HHLD,Heading hold,Navigation,1
+,HIGE,hover in ground effect,Helicopter operations,1
+,HIRL,High Intensity Runway lighting,Airfield operations,1
+,HIRO,High Intensity Runway Operation,Airfield operations,1
+,HIRTA,High Intensity Radio Transmission Area,,1
+,HIWAS,Hazardous Inflight Weather Advisory Service,,1
+,HL,Height loss,,1
+,HLD,hold,Maintain same altitude or speed or direction,1
+,HMG,hydraulic motor generator,,1
+,HMD,Helmet-mounted display,,1
+,HMU,hydro-mechanical unit,In turbine engine,1
+,HOGE,hover out of ground effect,Helicopter operations,1
+,HOTAS,Hands On Throttle And Stick,,1
+,HPA,human-powered aircraft,Aircraft type,1
+,HPC,high pressure compressor,In turbine engine,1
+,HPR,High Pressure Rotor,,1
+,HPT,high pressure turbine,In turbine engines,1
+,HPTACC,high pressure turbine active clearance control,Mainly used in turbofan engines,1
+,HSD,High-speed data,,1
+,HSI,horizontal situation indicator,Avionics,1
+,HSL,Heading select,,1
+,HUD,head-up display,Avionics,1
+,HUM,Human Remains,,1
+,HUMS,Health and usage monitoring systems,,1
+,HW,headwind,,1
+,HYD,hydraulic,Aircraft equipment,1
+,HYDIM,hydraulic interface module,,1
+,HZ,Hertz,Symbol for unit of frequency,1
+,IAC,instrument approach chart,,1
+,IAF,initial approach fix,,1
+,IAN,Integrated Approach Navigation,"IAN approaches provide the functions, indications and alerting features similar to an ILS approach (B737 FCTM)",1
+,IAP,instrument approach procedure,,1
+,IAS,indicated airspeed,,1
+,IATA,International Air Transport Association,,1
+,IB,inboard,,1
+,ICA,Instructions for Continuous Airworthiness,,1
+,ICAO,International Civil Aviation Organization,,1
+,ICAS,International Council of the Aeronautical Sciences,,1
+,ICD,interface control document,,1
+,ICO,idle cut-off,,1
+,ICTS,ice-contaminated tailplane stall,,1
+,ID,identify/identification or identifier,,1
+,IDENT,identify/identifier,,1
+,IDG,integrated drive generator,Combination of a CSD and generator in a single case,1
+,IDS,information display system,Or: integrated display system,1
+,IDT,identify,XPDR,1
+,IEPR,integrated engine pressure ratio,,1
+,IETM,interactive electronic technical manual,,1
+,IF,intermediate approach fix,Instrumental approach,1
+,IFA,International Federation of Airworthiness,,1
+,IFATCA,International Federation of Air Traffic Controllers' Associations,,1
+,IFE,in-flight entertainment,,1
+,IFF,identification friend or foe,,1
+,IFICS,integrated flight instrument and control system,"British Aircraft Corporation, now British Aerospace",1
+,IFP,instrument flight procedure,,1
+,IFR,instrument flight rules,,1
+,IFSD,in-flight shutdown,,1
+,IGV,inlet guide vane,,1
+,ILS,instrument landing system,,1
+,IMC,instrument meteorological conditions,,1
+,IML,inside mold line,,1
+,IND,indicator,,1
+,InHg,inch of mercury,,1
+,INS,inertial navigation system,,1
+,IPC,"illustrated parts catalog (e.g. by Boeing, Airbus)",,1
+,IR,initial release,,1
+,IRS,inertial reference system,,1
+,IRT,instrument rating test,,1
+,IRU,inertial reference unit,,1
+,IRVR,instrumented runway visual range,,1
+,ISA,International Standard Atmosphere,,1
+,ISFD,integrated standby flight display,,1
+,ISIS,integrated standby instrument system,,1
+,ISP,integrated switching panel,,1
+,ITAR,International Traffic in Arms Regulations,,1
+,ITT,interstage turbine temperature,,1
+,IVSI,instantaneous vertical speed indicator,,1
+,JAA,Joint Aviation Authorities,,1
+,JAR,Joint Aviation Requirements,,1
+,JTIDS,Joint Tactical Information Distribution System,,1
+,KCAS,knots calibrated airspeed,,1
+,KIAS,knots indicated airspeed,,1
+,KRE,key risk element,,1
+,KTAS,knots true airspeed,,1
+,L,Light,Wake turbulence category,1
+,LAAS,Local Area Augmentation System,,1
+,LADGPS,Local Area Differential GPS,,1
+,LAHSO,Land And Hold Short Operations,,1
+,LAME,licensed aircraft maintenance engineer,,1
+,LAT,large air tanker,A class of waterbomber,1
+,LCC,low-cost carrier,,1
+,LCD,liquid crystal display,,1
+,LCG,load classification group,,1
+,LCN,load classification number,,1
+,LDA,landing distance available,,1
+,LDA,localizer type directional aid,,1
+,LDGPS,local area differential global positioning satellite,,1
+,LDR,landing distance required,,1
+,LED,light-emitting diode,,1
+,LHO,live human organs,,1
+,LHS,left hand seat,Jargon for captain,1
+,LIR,Loading Instruction Report,,1
+,LKP,last known position,,1
+,LLC,Life Limited Component,,1
+,LLP,Life Limited Part,"EASA, ICAO",1
+,LLZ,localizer,ILS approach,1
+,LM,land and marine,,1
+,LMM,Locator middle marker,,1
+,LNAV,lateral navigation,,1
+,LOA,letter of authorization,FAA,1
+,LOC,localizer,,1
+,LOC,loss of control,,1
+,LOCI,loss of control inflight,,1
+,LOFT,line-oriented flight training,,1
+,LOM,limitation of movement,,1
+,LOM,locator outer marker,,1
+,LOPA,Location of Passenger Accommodations,,1
+,LORAN,Long-range navigation,,1
+,LOTC,loss of thrust control,,1
+,LPC,low pressure compressor,In turbine engines,1
+,LPR,Low Pressure Rotor,,1
+,LPT,low pressure turbine,,1
+,LPTACC,low pressure turbine active clearance control,Mainly used in turbofan engines,1
+,LPV,localizer performance with vertical guidance,,1
+,LRC,long range cruise,,1
+,LRU,line-replaceable unit,,1
+,LSAP,loadable software aircraft part (EASA),Introduced in RMP for technical records,1
+,LSAS,longitudinal stability augmentation system,,1
+,LTC,line training captain,,1
+,LTE,Loss of Tail Rotor Effectiveness,Helicopters,1
+,LTP,landing threshold point,,1
+,LVP,low visibility procedures,Designated state of operations at aerodromes where instrument approaches and low-visibility takeoff procedures are used during inclement weather,1
+,LW,landing weight,,1
+,LX,Lightning,,1
+,LZ,landing zone,,1
+,M,medium,Wake turbulence category,1
+,MAC,mean aerodynamic chord,,1
+,MAC,mid-air collision,,1
+,MAHF,Missed Approach Holding Fix,Used in RNAV,1
+,MANAB,Manual of Word Abbreviations,Used in Canada,1
+,MAP,manifold absolute pressure,,1
+,MAP,missed approach point,Or: MAPt. Instrument approach.,1
+,MAPS,Minimum Aviation Performance Standards,,1
+,MATS,Manual of Air Traffic Services,,1
+,MB,Marker beacon,,1
+,MBC,Main Base Check,,1
+,MCAS,Maneuvering Characteristics Augmentation System,Held responsible for Boeing 737 MAX groundings,1
+,MCBF,Mean cycles between failures,,1
+,MCC,Multi-crew cooperation,,1
+,MCDU,multifunction control display unit,,1
+,MCH,Manufacturer Certificate Holder,TCCA; see also PAH and POA,1
+,MCP,mode control panel,,1
+,MCT,maximum continuous thrust,,1
+,MCDU,multi control display unit,,1
+,MDA,minimum descent altitude,Or: minimum decision altitude. Non-precision approach.,1
+,MDDR,maintenance deferred defect record,,1
+,MDH,minimum descent height,Or: minimum decision height. Non-precision approach.,1
+,MDM,multi-disciplinary measure,EASA,1
+,ME,Manufacturing Engineer,,1
+,MEA,Minimum En-route Altitude,,1
+,MEDEVAC,medical evacuation,,1
+,MEF,maximum elevation figure,,1
+,MMEL,master minimum equipment list,,1
+,MEL,minimum equipment list,,1
+,MEP,multi-engine piston,,1
+,METAR,meteorological aerodrome report,,1
+,MF,Medium frequency,,1
+,MFD,multi-function display,,1
+,MFDS,multi-function display system,,1
+,MFRA,minimum flap retraction altitude,,1
+,MH,magnetic heading,,1
+,MIC,Microphone,,1
+,MIDS,Multifunctional information distribution system,,1
+,MILSPEC,Military specification,,1
+,MKP,Multi-function Keypad,,1
+,MKR,Marker beacon,,1
+,ML,maintenance laptop,,1
+,MLDW,maximum landing weight,,1
+,MLG,Main Landing Gear,,1
+,MLS,microwave landing system,,1
+,MM,middle marker,,1
+,MMD,Moving map display,,1
+,MNPS,Minimum navigation performance specifications,,1
+,MOA,Military operations area,,1
+,MOCA,Minimum Obstacle Clearance Altitude,,1
+,MODE A,Transponder pulse-code reporting,,1
+,MODE B,Transponder code and altitude reporting,,1
+,MODE C,"Transponder code, altitude, and TCAS reporting",,1
+,MOE,maintenance organisation exposition,,1
+,MOPS,Minimum Operational Performance Standard,,1
+,MORA,Minimum Off Route Altitude,,1
+,MOSArt,Modular Open System Architecture,,1
+,MP,manifold pressure,,1
+,MPL,multi-crew pilot license,,1
+,MPU,Multifunction Processor Unit,,1
+,MRB,Material Review Board,,1
+,MRO,"maintenance, repair, overhaul",,1
+,MRO,maintenance and repair organization,,1
+,MROT,Minimum Runway Occupancy Time,,1
+,MRP,Material Resources Planning,,1
+,MRW,maximum ramp weight,,1
+,MSA,minimum safe altitude / minimum sector altitude,,1
+,MSD,Minimum Stabilization Distance,,1
+,MSDS,Material Safety Data Sheet,,1
+,MSG,Message,,1
+,MSL,mean sea level,,1
+,MSLW,Max. Structural Landing Weight,,1
+,MSP,Modes S-Specific Protocol,,1
+,MSSS,Mode S-Specific Services,,1
+,MSTOW,Max. Structural Take-off Weight,,1
+,MSZFW,Max. Structural Zero Fuel Weight,,1
+,MTBF,Mean time between failures,,1
+,MTBSV,Mean time between shop visit,,1
+,MTBUR,Mean time between unscheduled removals,,1
+,MTOW,maximum take-off weight,,1
+,MTTF,Mean time to failure,,1
+,MVA,Minimum Vectoring Altitude,,1
+,MVFR,Marginal visual flight rules,,1
+,MX,Maintenance,,1
+,MZFW,Maximum Zero Fuel Weight,,1
+,NADP,noise abatement departure procedure,,1
+,NAS,National Airspace System,United States,1
+,NAV,Navigation receiver,Normally VHF navigation receiver for VOR,1
+,Navaid,Navigational aid,Or: aid to navigation (ATON),1
+,NAVCOMM,Combination navigation and communications equipment,Or: NAV/COM or NAV-COM. normally VHF navigation receiver integrated with VHF communications transceiver,1
+,NAVSTAR-GPS,Navigation Satellite Timing And Ranging,The space-borne or satellite navigation system,1
+,NCAT,National Center for Aviation Training,US educational facility,1
+,NCATT,National Center for Aircraft Technician Training,US educational facility,1
+,ND,Navigation display,,1
+,NDB,non-directional beacon,,1
+,NDT,non-destructive testing,,1
+,NFF,No fault found,Or: no trouble found (NTF) or no defect found (NDF),1
+,NGS,nitrogen generation system,,1
+,NHA,next higher assembly,,1
+,NIST,National Institute of Standards and Technology,,1
+,NLG,nose landing gear,,1
+,NLR,Netherlands Aerospace Research Centre,,1
+,NM,Nautical mile,Or: NMI,1
+,NNC,non-normal checklist,,1
+,NNM,non-normal maneuver (Boeing QRH - 737 Flight Crew Operations Manual),,1
+,NORAD,North American Aerospace Defense Command,US-Canadian military security agency,1
+,NORDO,no radio,,1
+,NOTAM,Notice to air missions,,1
+,NOTAR,no tail rotor,Helicopter control system,1
+,NOZ,Normal Operating Zone,Parallel runways operation,1
+,NPA,non-precision approach,Instrumental approach,1
+,NPA,notice of proposed amendment,EASA,1
+,NPRM,notice of proposed rulemaking,FAA,1
+,NRR,noise reduction rating,hearing protector attenuation,1
+,NRTC,nonroutine task card,,1
+,NVD,Night-vision device,Or: Night-vision goggles (NVG),1
+,NTSB,National Transportation Safety Board,U.S. governmental agency,1
+,NTZ,no-transgression zone,Parallel runways operation,1
+,N#,compressor speed,"N1, N2, etc. refers to the specific compressor spool (in the order that air passes over them). (See: Jet engine)",1
+,Ng,gas generator speed,,1
+,Nh,high rotor speed,,1
+,Np,power turbine speed,,1
+,Nr,rotor speed (helicopters),"Np and Nr are typically shown on the same gauge with two needles, both expressed in percent, so that the pilot can tell if the power turbine is driving the rotor or if it is freewheeling.",1
+,OAS,Obstacle Assessment Surface,,1
+,OAT,outside air temperature,,1
+,OBE,overcome by events,,1
+,OBI,Omnibearing indicator,See CDI,1
+,OBS,omni-bearing selector,,1
+,OCA,obstacle clearance altitude,,1
+,OCC,Operations control center,,1
+,OCCM,on condition / condition monitored components,,1
+,OCH,obstacle clearance height,,1
+,OEI,one engine inoperative,,1
+,OEM,original equipment manufacturer,,1
+,OFZ,Obstacle Free Zone,,1
+,OGV,outlet guide vane,,1
+,OHM,overhaul manual,,1
+,OIS,obstacle identification surface,Instrumental procedures,1
+,OIS,Operational Information System,,1
+,OM,outer marker,,1
+,OML,outer mold line,,1
+,ONS,onboard network system,,1
+,ONAT,Onboard Network Access Terminal,,1
+,O/R,On Request,,1
+,OTS,out of service,,1
+,OPC,operational check,,1
+,OPS/CHK,operational check,,1
+,OW,operational weight,,1
+,OWE/OEW,Operating Weight Empty/Operating empty weight,,1
+,P,(as a prefix:) prohibited airspace,,1
+,PA,pressure altitude,,1
+,PA,Public address system,,1
+,PAEW,Personnel and equipment working,,1
+,PAH,production approval holder,FAA; see also POA and MCH,1
+,PAL,Pilot Activated Lighting,,1
+,PANS-OPS,procedures for air navigation services – aircraft operations,,1
+,PAOG,Pre Aircraft on Ground,,1
+,PAPI,precision approach path indicator,,1
+,PAR,precision approach radar,,1
+,PATWAS,Pilot's Automatic Telephone Weather Answering Service,,1
+,PAX,passenger,,1
+,PBCS,performance-based communication and surveillance,,1
+,PBD,place bearing distance,RNAV waypoint,1
+,PBE,Protective Breathing Equipment,,1
+,PBN,Performance-Based Navigation,,1
+,PC,proficiency check,,1
+,PCL,Pilot Controlled Lighting,,1
+,P-Code,GPS precision code,,1
+,PCN,pavement classification number,,1
+,PD,Profile descent,,1
+,PDA,performance degradation allowance,,1
+,PDAS,public domain aeronautical software,,1
+,PDC,Pre-Departure Clearance,,1
+,PDG,procedure design gradient,,1
+,PDM,pilot decision making,,1
+,PDOP,Position dilution of precision,,1
+,PDU,power drive unit,Flap actuation,1
+,PET,point of equal time,,1
+,PESA,Passive electronically scanned array,,1
+,PF,pilot flying,,1
+,PFAF,precision final approach fix,,1
+,PFD,primary flight display,Or: primary flight director,1
+,PIC,Pilot In Command,,1
+,PICUS,"Pilot In Command, under supervision",,1
+,PIO,Pilot Induced Oscillations,,1
+,PIP,performance improvement package,,1
+,PIREP,Pilot Report,,1
+,PJA,Parachute Jumping Area,,1
+,PJE,Parachute jumping exercise,,1
+,PM,pilot monitoring,,1
+,PMA,Parts Manufacturer Approval,,1
+,PMI,Principal Maintenance Inspector,,1
+,PMC,power management computer,Turbine engines,1
+,PMG,permanent magnet generator,,1
+,PN,part number,Also P/N,1
+,PND,primary navigation display,,1
+,PNF,pilot not flying,,1
+,PNR,passive noise reduction,,1
+,PNR,Point of No Return,,1
+,POA,Production Organisation Approval,EASA; see also PAH and MHC,1
+,POB,persons on board,,1
+,POF,Phase of flight,,1
+,POF,Principles Of Flight,,1
+,PO,Pilot's Operating Handbook,Sometimes referred to as a POH,1
+,POS,Position,,1
+,PPL,private pilot licence,,1
+,PPR,prior permission required,,1
+,PRA,Pre-recorded announcement,,1
+,P-RNAV,,,1
+,PS,passenger step,,1
+,PSEU,Proximity Switch Electronic Unit / B737,,1
+,PSR,point of safe return,,1
+,PSR,power supply reset,,1
+,PSR,primary surveillance radar,,1
+,PSU,passenger service unit,,1
+,PTCU,power transfer Control unit,,1
+,PTF,permit to fly,,1
+,PTOL,point take-off and landing,,1
+,PTR,Pilot Training Record,,1
+,PTT,push to talk,,1
+,PYLD,payload,,1
+,Q,,,1
+,QAR,quick access recorder,,1
+,QCM,quality and compliance monitoring,,1
+,QEC,quick engine change,,1
+,QFE,the Q-code for: Atmospheric pressure at aerodrome elevation (or at runway threshold),,1
+,QNE,the Q-code for pressure altitude,,1
+,QNH,"the Q-code for: Altimeter sub-scale setting to obtain elevation when on the ground, i.e. altitude above MSL",,1
+,QRA,quick reaction alert,,1
+,QRH,quick reference handbook,,1
+,QTOL,quiet take-off and landing,,1
+,R,(as a prefix:) restricted airspace,,1
+,RA,radio altitude or radar altimeter,,1
+,RA,resolution advisory,In the context of TCAS,1
+,RAAS,Runway Awareness and Advisory System,,1
+,RAAS,remote airport advisory service,,1
+,Rad Alt,Radio Altitude,,1
+,Radar,RAdio Detection And Ranging,,1
+,RAI,Radio altimeter indicator,,1
+,RAIM,Receiver Autonomous Integrity Monitoring,Or: remote autonomous integrity monitoring,1
+,RALT,Radar or radio altimeter,,1
+,RAREPS,Weather Radar Reports,Provided by Air Traffic Controllers,1
+,RAS,rectified air speed,,1
+,RA(T),restricted area (temporary),,1
+,RAT,ram air turbine,,1
+,RCO,remote communications outlet,,1
+,RCR,Reverse current relay,,1
+,RCVR,Radio receiver,,1
+,RDH,reference datum height,For instrument landing system (ILS),1
+,RDMI,Radio distance magnetic indicator,,1
+,RDP,Radar data processing system,,1
+,RDR,Radar,,1
+,REF,Reference,,1
+,REIL,Runway end identifier lights,,1
+,REL,Relative,,1
+,REO,Repair engineering order,,1
+,RESA,runway end safety area,,1
+,RF,Radio frequency,,1
+,RFF,rescue and fire fighting,,1
+,RFI,Radio frequency interference,,1
+,RFI,recreational flight instructor,,1
+,RGB,reduction gear box,,1
+,RHS,right hand seat,Jargon for first officer,1
+,RHSM,reduced horizontal separation minimal,,1
+,RIA,regulatory impact assessment (EASA),,1
+,RII,required inspection items,,1
+,RLG,Ring laser gyroscope,,1
+,RLTC,Remaining Life Time Cycle,Counter to the limiter especially for LLPs in engines,1
+,RLY,Relay,,1
+,RMI,radio magnetic indicator,,1
+,RMP,Radio Management Panel,,1
+,RMT,rule making task (EASA),,1
+,RNAV,area navigation,,1
+,RNG,Range (aeronautics),,1
+,RNP,required navigation performance,,1
+,RoC,Rate of climb,,1
+,RoD,Rate of descent,Or: sink rate,1
+,RPA,Remotely Piloted Aircraft,Or: Unmanned aerial vehicle (UAV),1
+,RPAS,Remotely Piloted Aircraft System,,1
+,RPL,Recreational Pilot Licence,,1
+,RPL,repetitive flight planning,,1
+,RPM,Revolutions per minute,,1
+,RPT,regular public transport,,1
+,RQR,Required,,1
+,RSA,runway safety area,,1
+,RSP,Reversion switch panel,,1
+,RSR,en-route surveillance radar,,1
+,RT,radiotelephony,,1
+,RTB,return to base,,1
+,RTE,Route,,1
+,RTF,radiotelephony,,1
+,RTL,rudder travel limiting,,1
+,RTO,Rejected takeoff,,1
+,RTOL,Reduced take-off and landing,,1
+,RTOW,regulatory take-off weight,,1
+,RVDT,rotary variable differential transformer,In a turbine engine,1
+,RVR,runway visual range,,1
+,RVSM,reduced vertical separation minima,,1
+,RW,ramp weight,,1
+,RWY,runway,,1
+,RX,Radio receiver,,1
+,SAF,Sustainable aviation fuel,,1
+,SAIL,Specific assurance and integrity level,,1
+,SAR,Search and rescue,,1
+,SAR,Smart ACMS Recorder,,1
+,SAR,Surveillance Approach Radar,,1
+,SAS,stability augmentation system,,1
+,SAT,Static Air Temperature,Or: Outside air temperature (OAT),1
+,SATCOM,Satellite communication,,1
+,SATNAV,Satellite navigation,,1
+,SB,service bulletin,,1
+,SBAAS,Satellite-Based Augmentation System,Or: SBAS,1
+,SC,special condition,,1
+,SCAP,Standard Computerized Airplane Performance,,1
+,SCCM,senior cabin crew member,,1
+,SD,Secure digital,,1
+,SDF,Simplified directional facility,,1
+,SDU,Satellite data unit,,1
+,SELCAL,Selective calling,,1
+,SEP,Safety and Emergency Procedures,,1
+,SEP,single-engine piston,,1
+,SESAR,Single European Sky ATM Research,,1
+,SESMA,Special Event Search and Master Analysis,,1
+,SF,Stratus Fractus,Cloud type,1
+,SFCC,Slat Flap Control Computer,,1
+,SFO,Senior First Officer,,1
+,SFP,Short Field Performance,B737 Enhancement program for landing in short runways,1
+,SFOC,Special Flight Operating Certificate,,1
+,SID,standard instrument departure,,1
+,SIGMET,Significant Meteorological Information,,1
+,SIU,Satellite interface unit,,1
+,SLPC,single lever power control,,1
+,SM,service manual,,1
+,SMM,safety management document,ICAO,1
+,SMOH,Since major overhaul,,1
+,SMR,surface movement radar,,1
+,SMS,Short Messaging Service,,1
+,SMT,software maintenance tool,,1
+,SN,serial number,,1
+,SNR,signal-to-noise ratio,,1
+,SOC,start of climb at missed approach,,1
+,SODPRO,simultaneous opposite direction parallel runway operations,,1
+,SOF,special operations forces,Military unit,1
+,SOG,speed over ground,Same as ground speed,1
+,SOG,Special Operations Group,,1
+,SOP,standard operating procedure,,1
+,SOW,Statement of Work,,1
+,SPKR,Speaker,,1
+,SPS,Stall Protection System,,1
+,SQ,Squelch,Or: SQL,1
+,SR,sunrise,,1
+,SRM,structural repair manual,,1
+,SRS,Speed Reference System,,1
+,SS,sunset,,1
+,SSCV/DR,Solid-state cockpit voice/data recorder,See flight recorder,1
+,SSCVR,Solid-state cockpit voice recorder,See flight recorder,1
+,SSFDR,Solid-state flight data recorder,See flight recorder,1
+,SSR,Secondary surveillance radar,,1
+,STAR,standard terminal arrival route,,1
+,STARS,Standard Terminal Automation Replacement System,,1
+,STC,supplemental type certificate,,1
+,STCA,Short-Term Conflict Alert,,1
+,STOL,short take-off and landing,,1
+,STP,Standard temperature and pressure,,1
+,STS,speed trim system,,1
+,SUA,Special use airspace,,1
+,SVFR,Special visual flight rules,,1
+,SVGS,Synthetic vision guidance system,,1
+,TA,traffic advisory,See TCAS,1
+,TAA,terminal arrival altitude,,1
+,TAA,terminal arrival area,,1
+,TAC,thrust asymmetry compensation,,1
+,TACAN,tactical air navigation (system),,1
+,Tach,Tachometer,,1
+,TAD,Terrain awareness display,,1
+,TAF,terminal aerodrome forecast,Or: Terminal area forecast.,1
+,TAI,thermal anti-ice,,1
+,TALPA,Takeoff and Landing Performance Assessment Aviation Rules Committee,,1
+,TAM,total airport management,,1
+,TAR,terminal approach radar,,1
+,TAS,true airspeed,,1
+,TAT,total air temperature,Or: true air temperature,1
+,TAWS,terrain awareness and warning system,,1
+,TBO,time between overhauls,Or: time before overhaul,1
+,TBV,transient bleed valve,In turbine engines,1
+,TC,Transport Canada,,1
+,TC,towering cumulus,,1
+,TC,turn coordinator,,1
+,TC,True Course,,1
+,TC,type certificate,,1
+,TCA,terminal control area (USA/Canada),Europe: terminal manoeuvring area (TMA),1
+,TCA,Throttle control assembly,,1
+,TCAS,traffic collision avoidance system,,1
+,TCCA,Transport Canada's Civil Aviation,,1
+,TCDS,type certificate data sheet,,1
+,TCF,Terrain clearance floor,,1
+,TCH,threshold crossing height,,1
+,TCI,thrust computer indicator,,1
+,TCN,TACAN,,1
+,TCU,Telecommunication control unit,"Or: terminal control unit, or line control unit, used in Air traffic control",1
+,TDOP,Time dilution of precision,,1
+,TDR,Transponder,(In some cases),1
+,TDZ,touchdown zone,,1
+,TERPS,terminal instrument procedures,Or: terminal en route procedures,1
+,TFC,traffic,,1
+,TFR,temporary flight restriction,Airspace,1
+,TFT,Thin-film transistor,,1
+,TGB,transfer gearbox,,1
+,TGL,temporary guidance leaflet,,1
+,TGL(S),touch-and-go landing(s),,1
+,TGT,Target,,1
+,TGT,Turbine gas temperature,,1
+,THLD,threshold,Or: THR,1
+,TH,True Heading,Or: THDG,1
+,THR,runway threshold,,1
+,THS,"trimmable horizontal stabilizer, see tailplane",,1
+,TIS–B,Traffic information service – broadcast,,1
+,TIT,turbine inlet temperature,,1
+,TK,Track angle,,1
+,TKE,Track-angle error,,1
+,TLD,time-limited dispatch,,1
+,TLA,Three-letter acronym,,1
+,TLA,Thrust lever angle,,1
+,TLB,technical logbook (EASA),,1
+,TLS,transponder landing system,,1
+,TMA,terminal manoeuvring area (Europe),USA/Canada: terminal control area,1
+,TMG,touring motor glider,,1
+,TML,Toolbox Mobile Library (Boeing),,1
+,TMZ,transponder mandatory zone,,1
+,TOC,Top of climb,Or: T/C,1
+,TOD,top of descent (point),Or: T/D,1
+,TODA,take-off distance available,,1
+,TO/GA,Takeoff/go-around switch / thrust,Or: TOGA,1
+,TOP,take-off power,,1
+,TOR,take-off runway,,1
+,TORA,take-off runway available,,1
+,TOT,Turbine outlet temperature,,1
+,TOW,take-off weight,,1
+,TOWS,take-off warning system,,1
+,TR,tail rotor,Or: T/R. Helicopters.,1
+,TR,thrust reverser(s),Or: T/R,1
+,TR,transformer rectifier,,1
+,TR,transmitter receiver or transceiver,Or: T/R,1
+,TP,turning point at missed approach,,1
+,TRA,temporary reserved area (airspace),,1
+,TRACON,terminal radar approach control,,1
+,TRANS,transition,,1
+,TRANS,Transmission (telecommunications),Or: transmit,1
+,TRE,type rating examiner,,1
+,TRK,Track,,1
+,TRP,thrust rating panel,,1
+,TRP,Mode S transponder,,1
+,TSO,technical standard order,FAA specification of quality standard.,1
+,TSLOVH,Time since last overhaul,Normally measured in FH or EFH,1
+,TSN,Time since new,"Normally measured in FH or EFH for an aircraft, engine or component",1
+,TTAF,total time air frame,,1
+,TTL,Tuned to Localizer,,1
+,TTR,TCAS II transmitter/receiver,,1
+,TTS,Time to station,,1
+,TTSN,total time since new,,1
+,TTSO,total time since overhaul,,1
+,TVE,Total vertical error,,1
+,TWB,Transcribed Weather Broadcasts,Abbreviated area forecast,1
+,TWC,tail wind component,,1
+,TWDL,Two-way data link,Or: terminal weather data link,1
+,TWDR,Terminal Doppler Weather Radar,,1
+,TWIP,Terminal weather information for pilots,,1
+,TWLU,Terminal Wireless LAN Unit,,1
+,TWR,Air traffic control tower,,1
+,TWR,Terminal weather radar,,1
+,TWY,taxiway,,1
+,TX,Transmit,,1
+,UAC,Upper area control,,1
+,UART,Universal asynchronous receiver-transmitter,,1
+,UAS,Unmanned Aircraft System,,1
+,UAV,Unmanned aerial vehicle,"Commonly called 'drones', also 'Remotely Piloted Aircraft (RPA)'",1
+,UHF,ultra-high frequency,,1
+,UIR,upper information region,,1
+,ULB,underwater locator beacon,,1
+,UNL,Unlimited,Seen on GFA and is used for visibility,1
+,UPRT,upset prevention and recovery training,,1
+,USB,Universal Serial Bus,,1
+,UTC,Universal Time Coordinated,Indicates time zones,1
+,V,magnetic variation,,1
+,V,Volts or voltage,,1
+,V&V,video & vision,,1
+,VAR,Variation,,1
+,VASI,visual approach slope indicator,VASIS = visual approach slope indicator system,1
+,VBV,variable bleed valve,In turbine engines,1
+,VCR,visual control room,,1
+,VCS,vehicle control service,,1
+,VDF,VHF direction-finding,,1
+,VDL,VHF Data Link,,1
+,VDP,visual descent point,Point in a direct approach where a 3º normal visual descent can be started to achieve a safe landing and stabilized approach to the RWY - VDP (in distance) = HAT (height over terrain) / 300 (HAT is the height of the MDA read in the approach chart of the AD),1
+,VDR,VHF digital radio,,1
+,VFO,Variable-frequency oscillator,,1
+,VFR,visual flight rules,,1
+,VG,vortex generator,,1
+,VGA,Video Graphics Array,,1
+,VG/DG,Vertical gyroscope/directional gyroscope,,1
+,VGLS,Visual Guidance Lighting Systems,FAA navigation services,1
+,VGM,voice generator module,See AWOS,1
+,VHF,very high frequency,,1
+,VID,visible impact damage,,1
+,VIGV,variable inlet guide vane,,1
+,V/L,VOR/Localizer,,1
+,VMC,visual meteorological conditions,,1
+,VMC,minimum control speed with critical engine out,,1
+,VNAV,vertical navigation,Or: V/NAV,1
+,VNC,VFR navigation chart,,1
+,VNE,Never exceed speed,,1
+,VNO,Maximum structural cruising speed,,1
+,VNR,VHF navigation receiver,,1
+,VOR,VHF omni-directional range,,1
+,VOR/DME,VOR with Distance measuring equipment,,1
+,VOR/MB,VOR marker beacon,,1
+,VORTAC,VOR and TACAN combination,,1
+,VOX,Voice transmission,Voice Operated Transmitter,1
+,VPA,Vertical Path Approach,,1
+,VPATH,Vertical path,,1
+,V/R,Voltage regulator,,1
+,VRP,Visual point of reference,,1
+,VRS,vortex ring state,Helicopter flight phenomenon,1
+,V/S,Vertical speed,,1
+,VSCF,variable speed constant frequency,Electricity generation system,1
+,VSI,vertical speed indicator,,1
+,VSM,Vertical separation limit,,1
+,VSO,Stall speed in landing configuration,,1
+,VSV,variable stator vane,In a turbine engine,1
+,VSWR,Voltage–standing wave ratio,,1
+,VTA,VFR terminal area chart,,1
+,VTOL,vertical take-off and landing,,1
+,V/TRK,Vertical track,,1
+,VVI,vertical velocity indicator,Same as VSI,1
+,VX,Speed for best angle of climb,,1
+,VY,Speed for best rate of climb,,1
+,WAAS,Wide Area Augmentation System,,1
+,WAC,World Aeronautical Chart,,1
+,WAT,"weight, altitude, temperature",Variables that affect takeoff performance,1
+,W&B,Weight & Balance,Sometimes referred to as WxB,1
+,WCA,Wind Correction Angle,,1
+,WD,Wind direction,Or: WINDR,1
+,WDM,Wiring Diagram Manual,,1
+,WEF,with effect from,,1
+,WEP,War Emergency Power,,1
+,WMA,WXR waveguide adapter,,1
+,WMI,WXR indicator mount,,1
+,WMS,Wide-area master station,,1
+,WMSC,Weather message switching center,,1
+,WMSCR,Weather message switching center replacement,,1
+,WOCL,window of circadian low,,1
+,WOFW,weight-off-wheels,Indicates aircraft is off ground since lift off,1
+,WONW,weight-on-wheels,Indicates aircraft is on ground since touch down,1
+,WPT,Waypoint,Or: WYPT,1
+,WRT,WXR receiver transmitter,,1
+,WS,wind shear,,1
+,WTC,Wake Turbulence Category,,1
+,Wx,weather,,1
+,WXR,Weather radar system,,1
+,XC,cross-country,,1
+,XCVR,Transceiver,,1
+,XFR,Transfer,,1
+,XMIT,transmit,,1
+,XMSN,transmission,,1
+,XMTR,transmitter,,1
+,XPDR,transponder,,1
+,XPNDR,transponder,,1
+,XTK,Crosstrack,,1
+,X-START,Cross-start,Using the air pressure or electrical power from a working engine,1
+,Y,yaw or yaw angle,,1
+,Y/D,yaw damper,Or: YD,1
+,Z,Zulu Time,Coordinated Universal Time (UTC),1
+,ZFT,zero-fuel time,,1
+,ZFW,zero-fuel weight,,1
+,ZULU,Zulu Time,Coordinated Universal Time (UTC),1

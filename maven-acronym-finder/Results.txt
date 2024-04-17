@@ -1,0 +1,92 @@
+SYSTEM : undefined
+ADC : Air data computer ()
+NAV : Navigation receiver (Normally VHF navigation receiver for VOR)
+FMEA : undefined
+I/O : undefined
+ALT : undefined
+CDI : course deviation indicator ()
+GPS : Global Positioning System (Avionics)
+CHT : Cylinder Head Temperature (Piston engine aviation) ()
+PFD : primary flight display (Or: primary flight director)
+SPEED : undefined
+ILS : instrument landing system ()
+S/N : undefined
+DOA : design organization approval (EASA)
+DOA : design organization approval (EASA)
+VERT : undefined
+XPNDR : transponder ()
+IC : undefined
+ERROR : undefined
+LSA : undefined
+UP : undefined
+IMC : instrument meteorological conditions ()
+HSI : horizontal situation indicator (Avionics)
+LOC : localizer ()
+LOC : loss of control ()
+AC : Altocumulus (Cloud type)
+AC : Advisory circular (Information and guidance publication)
+C/Bs : undefined
+MP : manifold pressure ()
+GNSS : undefined
+EFIS : electronic flight instrument system ()
+ALTITUDE : undefined
+FOV : undefined
+VSI : vertical speed indicator ()
+AP : Autopilot ()
+EU : undefined
+TSO : technical standard order (FAA specification of quality standard.)
+VGA : Video Graphics Array ()
+AVIONIC : undefined
+ASTM : undefined
+RH : undefined
+SAE : undefined
+NAV/COM : undefined
+AHRS : Attitude and heading reference system ()
+VOR : VHF omni-directional range ()
+VOX : Voice transmission (Voice Operated Transmitter)
+FAIL : undefined
+ARP : Aerodrome reference point ()
+A : undefined
+OAT : outside air temperature ()
+C : undefined
+I : undefined
+EASA : European Aviation Safety Agency ()
+MFD : multi-function display ()
+AIRSPEED : undefined
+P/N : undefined
+RPM : Revolutions per minute ()
+SA : undefined
+HEADING : undefined
+AOA : Angle of attack ()
+S : undefined
+DESCRIPTION : undefined
+VHF : very high frequency ()
+V : magnetic variation ()
+V : Volts or voltage ()
+NOTE : undefined
+ASI : Airspeed indicator ()
+W : undefined
+X : undefined
+VFRDAY : undefined
+ABCD : undefined
+NAV/COM/GPS : undefined
+CB : Cumulonimbus cloud ()
+CB : Cumulonimbus cloud ()
+COM : undefined
+OP : undefined
+OT : undefined
+PMA : Parts Manufacturer Approval ()
+FAA : Federal Aviation Administration (U.S. Department of Transportation agency)
+USG : undefined
+ETSO : European Technical Standard Order, issued by EASA; see TSO ()
+MTOW : maximum take-off weight ()
+FAILURE : undefined
+CS : certification specification (EASA) ()
+A/C : Aircraft ()
+A/D : Aerodrome ()
+ATM : Air traffic management ()
+VOR/ILS : undefined
+ELA : undefined
+LH : undefined
+CSLSA : undefined
+DC : undefined
