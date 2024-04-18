@@ -1,0 +1,9 @@
+AA : undefined
+GEO : undefined
+AB : Atmospheric Barometer (Pressure Measuring Device)
+AC : Altocumulus (Cloud type)
+AC : Advisory circular (Information and guidance publication)
+A/C : Aircraft ()
+AG : Attorney General ()
+FAT : Free air temperature ()
+CEO : Chief Executive Officer ()
